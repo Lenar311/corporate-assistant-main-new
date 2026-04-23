@@ -1,0 +1,13 @@
+# Основные зависимости
+chromadb>=0.4.22
+ollama>=0.1.7
+python-docx>=0.8.11
+pdfminer.six>=20221105
+PyMuPDF>=1.23.0  # для vision-обработки сканов
+python-dotenv>=1.0.0
+sentence-transformers>=2.2.0
+torch>=2.0.0
+striprtf==0.0.22
+# Для разработки
+pytest>=7.4.0
+black>=23.0.0

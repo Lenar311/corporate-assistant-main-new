@@ -1,0 +1,20 @@
+"venv/`n.env`nchroma_db/`ndata/`nindex_state.json" 
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.env.local
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+chroma_db/
+index_state.json
+
