@@ -1,0 +1,13 @@
+venv/ 
+node_modules/ 
+__pycache__/ 
+data/chroma_db/ 
+data/answer_cache.json 
+data/index_state.json 
+data/chats/ 
+*.pyc 
+.env 
+*.pyd 
+*.dll 
+frontend/.cache/ 
+frontend/build/ 
